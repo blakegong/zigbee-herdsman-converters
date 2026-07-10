@@ -1,5 +1,14 @@
 # Changelog
 
+## [26.80.1](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.80.0...v26.80.1) (2026-07-10)
+
+
+### Bug Fixes
+
+* Moes ZC-LS02: battery polling + stop mcuVersion flood ([#12650](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12650)) ([f478b1d](https://github.com/Koenkk/zigbee-herdsman-converters/commit/f478b1dcea7190f2972cf836d15b644b8c23c61f))
+* SONOFF MINIZB1GS: update inchingControlSet timeout ([#12656](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12656)) ([c55c0a6](https://github.com/Koenkk/zigbee-herdsman-converters/commit/c55c0a67cc81a0a7317b9a9be5b44329df61580c))
+* Tuya RB-SRAIN01: invert cleaning_reminder ([#12651](https://github.com/Koenkk/zigbee-herdsman-converters/issues/12651)) ([59e3bf4](https://github.com/Koenkk/zigbee-herdsman-converters/commit/59e3bf45dff2e931e2234a572a928163704b81ea))
+
 ## [26.80.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v26.79.0...v26.80.0) (2026-07-09)
 
 
